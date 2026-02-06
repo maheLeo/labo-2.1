@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2532801\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\H2026\\programmation orient\u00E9 objet\\Labo 2.1\\labo-2.1\\Laboratoire2_1-9e91ad6322c8e140fedbdf0d3938a3f2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D453291C-B901-4C34-B327-E46988E4ED0C}|AppParcometre\\AppParcometre.csproj|c:\\users\\2532801\\onedrive - c\u00E9gep \u00E9douard-montpetit\\h2026\\programmation orient\u00E9 objet\\labo 2.1\\labo-2.1\\laboratoire2_1-9e91ad6322c8e140fedbdf0d3938a3f2\\appparcometre\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D453291C-B901-4C34-B327-E46988E4ED0C}|AppParcometre\\AppParcometre.csproj|solutionrelative:appparcometre\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D453291C-B901-4C34-B327-E46988E4ED0C}|AppParcometre\\AppParcometre.csproj|c:\\users\\2532801\\onedrive - c\u00E9gep \u00E9douard-montpetit\\h2026\\programmation orient\u00E9 objet\\labo 2.1\\labo-2.1\\laboratoire2_1-9e91ad6322c8e140fedbdf0d3938a3f2\\appparcometre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D453291C-B901-4C34-B327-E46988E4ED0C}|AppParcometre\\AppParcometre.csproj|solutionrelative:appparcometre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\2532801\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\H2026\\programmation orient\u00E9 objet\\Labo 2.1\\labo-2.1\\Laboratoire2_1-9e91ad6322c8e140fedbdf0d3938a3f2\\AppParcometre\\Class1.cs",
+              "RelativeDocumentMoniker": "AppParcometre\\Class1.cs",
+              "ToolTip": "C:\\Users\\2532801\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\H2026\\programmation orient\u00E9 objet\\Labo 2.1\\labo-2.1\\Laboratoire2_1-9e91ad6322c8e140fedbdf0d3938a3f2\\AppParcometre\\Class1.cs*",
+              "RelativeToolTip": "AppParcometre\\Class1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T22:35:03.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2532801\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\H2026\\programmation orient\u00E9 objet\\Labo 2.1\\labo-2.1\\Laboratoire2_1-9e91ad6322c8e140fedbdf0d3938a3f2\\AppParcometre\\Program.cs",
+              "RelativeDocumentMoniker": "AppParcometre\\Program.cs",
+              "ToolTip": "C:\\Users\\2532801\\OneDrive - C\u00E9gep \u00C9douard-Montpetit\\H2026\\programmation orient\u00E9 objet\\Labo 2.1\\labo-2.1\\Laboratoire2_1-9e91ad6322c8e140fedbdf0d3938a3f2\\AppParcometre\\Program.cs",
+              "RelativeToolTip": "AppParcometre\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T22:33:40.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

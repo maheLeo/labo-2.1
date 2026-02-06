@@ -1,0 +1,7 @@
+C:\Users\2532801\OneDrive - Cégep Édouard-Montpetit\H2026\programmation orienté objet\Labo 2.1\labo-2.1\Laboratoire2_1-9e91ad6322c8e140fedbdf0d3938a3f2\AppMultiThermostat\bin\Debug\AppMultiThermostat.exe.config
+C:\Users\2532801\OneDrive - Cégep Édouard-Montpetit\H2026\programmation orienté objet\Labo 2.1\labo-2.1\Laboratoire2_1-9e91ad6322c8e140fedbdf0d3938a3f2\AppMultiThermostat\bin\Debug\AppMultiThermostat.exe
+C:\Users\2532801\OneDrive - Cégep Édouard-Montpetit\H2026\programmation orienté objet\Labo 2.1\labo-2.1\Laboratoire2_1-9e91ad6322c8e140fedbdf0d3938a3f2\AppMultiThermostat\bin\Debug\AppMultiThermostat.pdb
+C:\Users\2532801\OneDrive - Cégep Édouard-Montpetit\H2026\programmation orienté objet\Labo 2.1\labo-2.1\Laboratoire2_1-9e91ad6322c8e140fedbdf0d3938a3f2\AppMultiThermostat\obj\Debug\AppMultiThermostat.csproj.AssemblyReference.cache
+C:\Users\2532801\OneDrive - Cégep Édouard-Montpetit\H2026\programmation orienté objet\Labo 2.1\labo-2.1\Laboratoire2_1-9e91ad6322c8e140fedbdf0d3938a3f2\AppMultiThermostat\obj\Debug\AppMultiThermostat.csproj.CoreCompileInputs.cache
+C:\Users\2532801\OneDrive - Cégep Édouard-Montpetit\H2026\programmation orienté objet\Labo 2.1\labo-2.1\Laboratoire2_1-9e91ad6322c8e140fedbdf0d3938a3f2\AppMultiThermostat\obj\Debug\AppMultiThermostat.exe
+C:\Users\2532801\OneDrive - Cégep Édouard-Montpetit\H2026\programmation orienté objet\Labo 2.1\labo-2.1\Laboratoire2_1-9e91ad6322c8e140fedbdf0d3938a3f2\AppMultiThermostat\obj\Debug\AppMultiThermostat.pdb
